@@ -1,0 +1,7 @@
+{
+  "name": "Aplikasi TU SD Negeri Balil",
+  "description": "Sistem Informasi Tata Usaha Sekolah Dasar Negeri Balil Kabupaten Pegunungan Bintang",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
